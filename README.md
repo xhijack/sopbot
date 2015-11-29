@@ -1,7 +1,7 @@
 SopBot
 ------
 '''
-Fill form automatically
+Automatically fill forms and it can be BOT
 
 from form_faker import FormFactory
 
@@ -38,3 +38,4 @@ Next To Do
 
 Unit Testing
 
+=======
