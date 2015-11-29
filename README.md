@@ -1,8 +1,16 @@
 SopBot
 ------
-'''
 Automatically fill forms and it can be BOT
 
+Installation
+---
+```
+#  git clone https://github.com/xhijack/sopbot
+```
+
+Usage
+---
+```
 from form_faker import FormFactory
 
 # if you know the form name
@@ -32,8 +40,9 @@ form_factory = FormFactory(url=URL,
 
 
 response = form_factory.process()
+```
 
-'''
+====
 Next To Do
 
 Unit Testing
